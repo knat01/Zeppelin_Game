@@ -26,9 +26,7 @@ OpenGL
 GLUT
 SOIL (Simple OpenGL Image Library) for texture loading.
 
-https://github.com/knat01/Zeppelin_Game/assets/59844600/42a13298-4c96-4106-bfd6-c6122ff75ef5
 
 
 
-https://github.com/knat01/Zeppelin_Game/assets/59844600/c9b58ce9-f771-4baa-8bbc-905cb7b02a09
 
