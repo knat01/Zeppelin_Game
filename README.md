@@ -1,5 +1,7 @@
 3D Hierarchical Zeppelin Battle Game
+
 Overview
+
 This repository contains the code for a 3D Hierarchical Zeppelin Battle Game developed using OpenGL and GLUT. The game features a dynamic and interactive 3D environment where players control a zeppelin to navigate through the world, engage in combat with an enemy zeppelin, and avoid incoming fire.
 
 Features
@@ -19,14 +21,11 @@ V: Toggle between first-person and third-person views.
 Installation
 Ensure you have OpenGL and GLUT installed on your system.
 Clone this repository to your local machine.
-Compile the source code. (An example command for compilation on a Linux system: g++ -o zeppelinGame main.cpp -lGL -lGLU -lglut).
-Run the compiled executable to start the game.
+Compile the source code.
+
+
 Dependencies
 OpenGL
 GLUT
 SOIL (Simple OpenGL Image Library) for texture loading.
-
-
-
-
 
