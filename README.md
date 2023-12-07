@@ -23,6 +23,10 @@ Ensure you have OpenGL and GLUT installed on your system.
 Clone this repository to your local machine.
 Compile the source code.
 
+https://github.com/knat01/Zeppelin_Game/assets/59844600/92e9aaa5-8c79-43d9-8647-e8cf663b9347
+
+
+
 
 Dependencies
 OpenGL
