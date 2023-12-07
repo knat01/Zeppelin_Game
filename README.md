@@ -18,6 +18,9 @@ First-Person View (FPV): Toggle between first-person and third-person views for 
 Realistic Physics: Simulated physics for movement and bullet trajectories.
 Particle System: Includes a particle system for explosions and visual effects.
 Dynamic Lighting: Utilizes OpenGL lighting for a realistic look.
+
+https://github.com/knat01/Zeppelin_Game/assets/59844600/92e9aaa5-8c79-43d9-8647-e8cf663b9347
+
 Controls
 W/A/S/D: Move the zeppelin forward, left, backward, and right.
 Q/E: Move the zeppelin up and down.
@@ -28,9 +31,6 @@ Installation
 Ensure you have OpenGL and GLUT installed on your system.
 Clone this repository to your local machine.
 Compile the source code.
-
-https://github.com/knat01/Zeppelin_Game/assets/59844600/92e9aaa5-8c79-43d9-8647-e8cf663b9347
-
 
 
 
